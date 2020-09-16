@@ -1,5 +1,5 @@
 <h2> Hi, I'm MUz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://giphy.com/gifs/VbnUQpnihPSIgIXuZv/html5" width="230">
+<img align='right' src="media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="https://www.up.ac.th/th/">University  of Phayao</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 
