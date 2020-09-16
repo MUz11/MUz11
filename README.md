@@ -86,10 +86,11 @@
 ### :zap: Github Stats
 
 
-
+<p align="center">
 <a href="https://github.com/MUz11">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MUz11&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MUz11&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+ <p align="right"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MUz11&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" /> </p>
+  <p align="left"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MUz11&layout=compact&exclude_lang=java+r&theme=vue-dark" /> </p>
+  
 </a>
 </p>
 
