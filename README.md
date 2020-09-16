@@ -25,10 +25,7 @@
 <br>
 
 <img src='https://media.giphy.com/media/NGp9QCXJcBPuU/giphy.gif' align='right'>
-<div>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/NGp9QCXJcBPuU/giphy.gif"  align='right /></a>
- 
-</div>
+
 
 
 
