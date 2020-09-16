@@ -32,13 +32,13 @@
 
 ### I am a Software Engineer 
 - 🔭 I’m currently working on my Portfolio Website 
-- 🌱 I’m currently learning MERN Stack Development.
+- 🌱 I’m currently learning Hardware IOT
 - 👯 I’m looking to collaborate with other Developers 
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2020 Goals: Complete projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: <a href="https://www.facebook.com/messages/t/natchmax" target="_blank" >  <img src="https://img.shields.io/badge/-click-green?style=for-the-badge&logo=appveyor" alt="facebook"  /></a>&nbsp;
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- ⚡ Fun fact: I love Beers :raised_hands:
 
 <br>
 
