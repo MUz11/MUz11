@@ -24,7 +24,8 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" />
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&layout=compact' align='right'>
+
 
 ### I am a Systems Engineer Specialist at Infosys
 - 🔭 I’m currently working on my Portfolio Website 
