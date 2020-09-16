@@ -1,7 +1,8 @@
 <div>
+  <p align="center">
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/ydqokKjBkJV0A/giphy.gif" width="400" height="auto"  /></a>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/ydqokKjBkJV0A/giphy.gif" width="400" height="auto"  /></a>
-  
+  </p>
  
 </div>
 <p>
@@ -100,5 +101,8 @@
 
 
 
+<p align="center">
+  ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+ </p>
 
 
