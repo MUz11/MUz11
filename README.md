@@ -34,26 +34,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<details>
-<summary>:girl: List Favorites Characters</summary>
-  
-<!-- favorites_characters starts -->
-* [Chizuru Ichinose](https://anilist.co/character/128106)
-* [Misaki Shokuhou](https://anilist.co/character/40136)
-* [Ruka Sarashina](https://anilist.co/character/147005)
-* [Sumi Sakurasawa](https://anilist.co/character/144665)
-* [Ravel Phenex](https://anilist.co/character/58341)
-* [Haruno Yukinoshita](https://anilist.co/character/79589)
-* [Iroha Isshiki](https://anilist.co/character/88727)
-* [Jibril](https://anilist.co/character/87887)
-* [Holo](https://anilist.co/character/7373)
-* [Miyuki Shiba](https://anilist.co/character/55741)
-* [Nepgear](https://anilist.co/character/49927)
-* [Karen Kujou](https://anilist.co/character/50223)
-* [Myucel Foaran](https://anilist.co/character/87640)
-* [Yoshino Koiwai](https://anilist.co/character/121008)
-<!-- favorites_characters ends -->
+![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
 
-</details>
 
 ---
