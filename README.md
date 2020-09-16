@@ -1,6 +1,6 @@
 <div>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/ydqokKjBkJV0A/giphy.gif"  /></a>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/ydqokKjBkJV0A/giphy.gif"  /></a>
+  
  
 </div>
 <p>
