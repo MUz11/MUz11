@@ -30,13 +30,13 @@
 
 
 
-### I am a Systems Engineer Specialist at Infosys
+### I am a Software Engineer 
 - 🔭 I’m currently working on my Portfolio Website 
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers 
 - 🥅 2020 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: <a href="https://www.instagram.com/natchmax/"><img src="https://img.shields.io/badge/-click-green?style=for-the-badge&logo=appveyor" alt="Instagram" /></a>&nbsp;
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
