@@ -102,7 +102,7 @@
 
 
 <p align="center">
-  ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
- </p>
-
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/4hnQDVKVARZ6w/giphy.gif" width="75%" height="auto"  /></a>
+</p>
+  
 
