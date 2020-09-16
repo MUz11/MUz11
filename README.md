@@ -24,7 +24,6 @@
 
 <br>
 
-<img src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Monkey_Kid_Coding.gif' align='right'>
 <div>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/NGp9QCXJcBPuU/giphy.gif"  align='right /></a>
  
