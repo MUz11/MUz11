@@ -24,7 +24,8 @@
 
 <br>
 
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=keshavsingh4522&theme=radical&layout=compact' align='right'>
+<img src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Monkey_Kid_Coding.gif' align='right'>
+
 
 
 ### I am a Systems Engineer Specialist at Infosys
